@@ -7,4 +7,4 @@ Simply click 'Open file...' to import the WSM file and click 'Convert to WWB...'
 After that you can import the newly created scan file into WWB.
 
 DISCLAIMER!
-This program is in no way affiliated with neither Sennheiser nor Shure coorporations, nor is it supported by them. It is a tool created by me personally to help with the task of using Sennheiser hardware and software for scanning radio frequency spectrums and use that data for frequency planning in WWB.
+This program is in no way affiliated with neither Sennheiser nor Shure corporations, nor is it supported by them. It is a tool created by me personally to help with the task of using Sennheiser hardware and software for scanning radio frequency spectrums and use that data for frequency planning in WWB.
