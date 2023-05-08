@@ -35,7 +35,7 @@
 #
 #        DISCLAIMER!
 #        This program is in no way affiliated with neither Sennheiser nor Shure 
-#        coorporations, nor is it supported by them. It is a tool created by me 
+#        corporations, nor is it supported by them. It is a tool created by me 
 #        personally to help with the task of using Sennheiser hardware and software 
 #        for scanning radio frequency spectrums and use that data for frequency planning 
 #        in WWB.
@@ -276,7 +276,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     def show_about(self):
         # Show info about app in message box
-        messagebox.showinfo("About program", f"Written by Niklas Harju\nniklas.harju@yahoo.com\n\nVersion: {self.program_version}\n\nDISCLAIMER!\nThis program is in no way affiliated with neither Sennheiser nor Shure companies, nor is it supported by them. It is a tool created by me personally to help with the task of using Sennheiser hardware and software for scanning radio frequency spectrums and use that data for frequency planning in WWB.\n\nWhat is this?\n\nThis program imports radio frequency scan files created in and exported from Sennheisers software Wireless Systems Manager (WSM) as .csv files and reformats them to a csv format that works with Shures software Wireless Workbench (WWB).\n\nSimply click 'Open file...' to import the WSM file and click 'Convert to WWB...' and choose a location and name to save the new file with the new formatting.\n\nAfter that you can import the newly created scan file into WWB.")
+        messagebox.showinfo("About program", f"Written by Niklas Harju\nniklas.harju@yahoo.com\n\nVersion: {self.program_version}\n\nDISCLAIMER!\nThis program is in no way affiliated with neither Sennheiser nor Shure corporations, nor is it supported by them. It is a tool created by me personally to help with the task of using Sennheiser hardware and software for scanning radio frequency spectrums and use that data for frequency planning in WWB.\n\nWhat is this?\n\nThis program imports radio frequency scan files created in and exported from Sennheisers software Wireless Systems Manager (WSM) as .csv files and reformats them to a csv format that works with Shures software Wireless Workbench (WWB).\n\nSimply click 'Open file...' to import the WSM file and click 'Convert to WWB...' and choose a location and name to save the new file with the new formatting.\n\nAfter that you can import the newly created scan file into WWB.")
 
     def exit_app(self):
         # Exit confirmation message box
